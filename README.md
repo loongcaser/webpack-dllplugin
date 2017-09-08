@@ -14,6 +14,9 @@ npm run dev
 # build for production with minification
 npm run build
 
+# Generate a file as vendor.dll.js
+npm run build:dll
+
 # build for production and view the bundle analyzer report
 npm run build --report
 
